@@ -1,1 +1,4 @@
+groq>=0.31.0
 streamlit>=1.48.1
+python-dotenv>=1.1.1
+langchain-groq>=0.3.7
